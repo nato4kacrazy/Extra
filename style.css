@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+#pokemon-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#pokemon-list li {
+    padding: 4px 0;
+    font-size: 18px;
+}
